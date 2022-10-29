@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "ButtonBase",
+  name: "component-button",
   data() {
     return {};
   },
