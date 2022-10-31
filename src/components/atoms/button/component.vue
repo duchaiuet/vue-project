@@ -1,23 +1,13 @@
 <template>
-  <button :class="shape">{{ label }}</button>
+  <button type="{{ type }}" class="{{ className }}">{{ label }}</button>
 </template>
 
-<script>
+<script lang="ts">
 export default {
-  name: "component-button",
-  data() {
-    return {};
-  },
   props: {
+    type: String,
     label: String,
-    shape: {
-      type: String,
-      default: "square",
-    },
-    style: {
-      type: String,
-      default: "square",
-    },
+    className: String,
   },
 };
 </script>

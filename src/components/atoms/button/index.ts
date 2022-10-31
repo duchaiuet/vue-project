@@ -1,3 +1,3 @@
 import Button from "./component.vue";
 
-export default Button
+export default Button;

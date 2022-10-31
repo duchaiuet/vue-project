@@ -1,8 +1,7 @@
 <script setup lang="ts">
-import button from "../src/components/atoms/button";
-
+import Nav from "../src/components/organisms/navbar";
 </script>
 
 <template>
-  <button name="hai test" />
+  <Nav />
 </template>
