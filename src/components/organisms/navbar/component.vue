@@ -43,7 +43,7 @@
         </div>
         <div class="col-lg-8 col-md-1 col-1">
           <div id="navbar" class="collapse navbar-collapse navigation-holder">
-            <Button class="menu-close" label="Test">
+            <Button class="menu-close" >
               <i class="ti-close"></i>
             </Button>
             <ul class="nav navbar-nav mb-2 mb-lg-0">
@@ -529,3 +529,7 @@
 import Button from "../../atoms/button";
 import Input from "../../atoms/input";
 </script>
+
+<style lang="scss">
+@import "@/assets/style.scss";
+</style>

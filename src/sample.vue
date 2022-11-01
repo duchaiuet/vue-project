@@ -17,7 +17,7 @@
     <!-- end preloader -->
     <!-- Start header -->
     <header id="header">
-      <div class="wpo-site-header wpo-header-style-1" id="sticky-header">
+      <di   v class="wpo-site-header wpo-header-style-1" id="sticky-header">
         <nav class="navigation navbar navbar-expand-lg navbar-light">
           <div class="container-fluid">
             <div class="row align-items-center">
@@ -515,7 +515,7 @@
                           <div class="mini-cart-item-image">
                             <a
                               href="https://wpocean.com/html/tf/love-love/shop.html"
-                              ><img src="assets/img-1.jpg" alt=""
+                              ><img src="assets/images/img-1.jpg" alt=""
                             /></a>
                           </div>
                           <div class="mini-cart-item-des">
@@ -535,7 +535,7 @@
                           <div class="mini-cart-item-image">
                             <a
                               href="https://wpocean.com/html/tf/love-love/shop.html"
-                              ><img src="assets/img-2.jpg" alt=""
+                              ><img src="assets/images/img-2.jpg" alt=""
                             /></a>
                           </div>
                           <div class="mini-cart-item-des">
@@ -622,10 +622,10 @@
                   animation-name: zoomIn;
                 "
               >
-                <img src="assets/1.jpg" alt="" />
+                <img src="assets/images/1.jpg" alt="" />
               </div>
               <div class="wpo-img-shape">
-                <img src="assets/shape.png" alt="" />
+                <img src="assets/images/shape.png" alt="" />
               </div>
             </div>
             <div class="wpo-story-content">
@@ -660,10 +660,10 @@
                   animation-name: zoomIn;
                 "
               >
-                <img src="assets/2.jpg" alt="" />
+                <img src="assets/images/2.jpg" alt="" />
               </div>
               <div class="wpo-img-shape">
-                <img src="assets/shape.png" alt="" />
+                <img src="assets/images/shape.png" alt="" />
               </div>
             </div>
             <div class="wpo-story-content">
@@ -698,10 +698,10 @@
                   animation-name: none;
                 "
               >
-                <img src="assets/3.jpg" alt="" />
+                <img src="assets/images/3.jpg" alt="" />
               </div>
               <div class="wpo-img-shape">
-                <img src="assets/shape.png" alt="" />
+                <img src="assets/images/shape.png" alt="" />
               </div>
             </div>
             <div class="wpo-story-content">
@@ -751,77 +751,77 @@
                 >
                   <div class="owl-item cloned" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/1.png" alt="" />
+                      <img src="assets/images/1.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/2.png" alt="" />
+                      <img src="assets/images/2.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/3.png" alt="" />
+                      <img src="assets/images/3.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/4.png" alt="" />
+                      <img src="assets/images/4.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/5.png" alt="" />
+                      <img src="assets/images/5.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/1.png" alt="" />
+                      <img src="assets/images/1.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item active" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/2.png" alt="" />
+                      <img src="assets/images/2.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item active" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/3.png" alt="" />
+                      <img src="assets/images/3.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item active" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/4.png" alt="" />
+                      <img src="assets/images/4.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item active" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/5.png" alt="" />
+                      <img src="assets/images/5.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item cloned active" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/1.png" alt="" />
+                      <img src="assets/images/1.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/2.png" alt="" />
+                      <img src="assets/images/2.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/3.png" alt="" />
+                      <img src="assets/images/3.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/4.png" alt="" />
+                      <img src="assets/images/4.png" alt="" />
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 277.5px">
                     <div class="grid">
-                      <img src="assets/5.png" alt="" />
+                      <img src="assets/images/5.png" alt="" />
                     </div>
                   </div>
                 </div>

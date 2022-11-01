@@ -5,3 +5,7 @@ import Nav from "../src/components/organisms/navbar";
 <template>
   <Nav />
 </template>
+
+<style lang="scss">
+@import "@/assets/style.scss";
+</style>
